@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Third file text
 Also changed in the main branch
+=======
+Third file text
+>>>>>>> new-feature
